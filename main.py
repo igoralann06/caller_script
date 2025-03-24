@@ -10,7 +10,17 @@ SCRIPT_DETAILS = {
     3: ("instacart_scrape", "norating.py", "Scrapes data from Instacart (excluding ratings)."),
     4: ("resdepos_scrape", "main.py", "Scrapes data from Resdepos."),
     5: ("sams_scrape", "temp.py", "Scrapes data from Sam's Club."),
-    6: ("jobs_scrape", "main.py", "Scrapes job listings from various sources.")
+    6: ("jobs_scrape", "main.py", "Scrapes job listings from various sources."),
+    6: ("instacart_aldi", "aldi.py", "Scrapes instacart-aldi."),
+    6: ("instacart_bjs", "bjs.py", "Scrapes instacart-bjs."),
+    6: ("instacart_costco", "costco.py", "Scrapes instacart-costco."),
+    6: ("instacart_milams", "milams.py", "Scrapes instacart-milams."),
+    6: ("instacart_publix", "publix.py", "Scrapes instacart-publix."),
+    6: ("instacart_resdept", "restaurant_depot.py", "Scrapes instacart-resdept."),
+    6: ("instacart_sabor_tropical", "sabor_tropical.py", "Scrapes instacart-sabor_tropical."),
+    6: ("instacart_sams", "sams.py", "Scrapes instacart-sams."),
+    6: ("instacart_target", "target.py", "Scrapes instacart-target."),
+    6: ("instacart_walmart", "walmart.py", "Scrapes instacart-walmart."),
 }
 
 def list_scripts():
